@@ -11,7 +11,7 @@ See the [JavaScript language guide for CircleCI here](https://circleci.com/docs/
   mern init your_new_app
   cd your_new_app
   npm install
-  npm start
+  npm startt
 ```
 
 **Note : Please make sure your MongoDB is running.** For MongoDB installation guide see [this](https://docs.mongodb.org/v3.0/installation/). Also `npm3` is required to install dependencies properly.
